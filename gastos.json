@@ -4,5 +4,29 @@
         "importe": 110.0,
         "categoria": "Comida",
         "fecha": "2025-03-05"
+    },
+    {
+        "descripcion": "Gasto grande",
+        "importe": 800.0,
+        "categoria": "Hogar",
+        "fecha": "2025-03-11"
+    },
+    {
+        "descripcion": "gasto de hoy",
+        "importe": 200.0,
+        "categoria": "Ocio",
+        "fecha": "2025-03-12"
+    },
+    {
+        "descripcion": "afdds",
+        "importe": 499.0,
+        "categoria": "Hogar",
+        "fecha": "2025-03-12"
+    },
+    {
+        "descripcion": "ksaio",
+        "importe": 499.0,
+        "categoria": "Salud",
+        "fecha": "2025-03-12"
     }
 ]
